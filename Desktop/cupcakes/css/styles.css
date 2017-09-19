@@ -1,0 +1,29 @@
+h1 {
+  font-style: italic;
+  color: gray;
+}
+
+h1.title {
+  color: red;
+  text-transform: uppercase;
+}
+
+.flashy {
+  color: red;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.ingredient-img {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+body {
+ background-color: black;
+ color: white;
+}
+
+p {
+  font-size: 18px;
+}
