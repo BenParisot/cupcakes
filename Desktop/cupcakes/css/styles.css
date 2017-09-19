@@ -1,9 +1,18 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+p {
+  font-size: 18px;
+}
+
 h1 {
   font-style: italic;
   color: gray;
 }
 
-h1.title {
+.title {
   color: red;
   text-transform: uppercase;
 }
@@ -17,13 +26,4 @@ h1.title {
 .ingredient-img {
   margin-top: 15px;
   margin-bottom: 15px;
-}
-
-body {
- background-color: black;
- color: white;
-}
-
-p {
-  font-size: 18px;
 }
