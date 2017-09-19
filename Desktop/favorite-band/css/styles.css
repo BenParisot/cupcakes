@@ -1,0 +1,19 @@
+.full {
+  width: 100%;
+}
+
+.halfsies {
+  float: right;
+  width: 45%;
+}
+
+
+
+img {
+  width: 45%;
+  object-fit: contain;
+}
+
+.margin-test {
+  margin-top: 50px;
+}
